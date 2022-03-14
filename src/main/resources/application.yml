@@ -1,0 +1,12 @@
+auth-user:
+  username: "username"
+  password: "password"
+
+connection-info:
+  ip: "ip"
+  port: 4396
+
+token-info:
+  username: "webctdfs-username"
+  timestamp: "webctdfs-timestamp"
+  token: "webctdfs-token"
